@@ -8,7 +8,7 @@ service mysql start
 echo '[+] Starting apache'
 service apache2 start
 
-wget https://github.com/anir0y/docker-vulnerable-dvwa/blob/master/dvwa/dvwa/images/logo.png /var/www/html/dvwa/images/logo.png
+#wget https://github.com/anir0y/docker-vulnerable-dvwa/blob/master/dvwa/dvwa/images/logo.png /var/www/html/dvwa/images/logo.png
 
 while true
 do
