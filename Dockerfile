@@ -1,4 +1,4 @@
-FROM debian:9.2
+FROM debian:stretch-20220316
 
 LABEL maintainer "mail@anir0y.in"
 
